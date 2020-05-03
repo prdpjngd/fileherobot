@@ -8,7 +8,7 @@ This a drive url shortener used to hide your original file ID and share with you
 ### 1.  Simple Method 
 
 STEP 1: Press 👉🏻 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)\
-STEP 2: get You App credentials from https://my.telegram.org/auth\
+STEP 2: get You App credentials from https://my.telegram.org/auth. \
 STEP 3: put variable value in the heroku env. variables.\
 STEP 4: Boom!.... your done!\
 
@@ -24,10 +24,10 @@ virtualenv -p /usr/bin/python3 venv
 source venv/bin/activate
 pip install -r requirements.txt
 ```
-\STEP 2: Get You App credentials from https://my.telegram.org/auth \
+STEP 2: Get You App credentials from https://my.telegram.org/auth \
 STEP 3: Put your API ID & API HASH in Creds.py file.\
 STEP 4: Paste Your Bot Token In Creds.py\
-STEP 5: Boom your Done... \
+STEP 5: Boom your Done... 
 
 
 ### How to get your  API ID & API HASH from https://my.telegram.org/auth 👇
