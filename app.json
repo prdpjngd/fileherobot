@@ -1,0 +1,33 @@
+{
+  "name": "FileHeroBot - Telegram Bot 🤖",
+  "description": "This is telegram Bot based on the pyrogram Library which is used to Convert to Video & download file from url.",
+  "keywords": [
+    "Pyrogram",
+    "best",
+    "Video convertor",
+    "URL Downloader",
+    "video upload only",
+    "free",
+    "plugin",
+    "modular",
+    "productivity",
+    "Telegram api"
+  ],
+  "repository": "https://github.com/prdpjngd/fileherobot.git",
+  "success_url": "https://github.com/prdpjngd/fileherobot",
+  "website": "https://github.com/prdpjngd/fileherobot",
+  "env": {
+    "TG_BOT_TOKEN": {
+      "description": "This is Bot token - Get From Bot father Bot",
+      "value": ""
+    },
+    "API_ID": {
+      "description": "This is telegram App API_ID - Get from my.telegram.org",
+      "value": ""
+    },
+    "API_HASH": {
+      "description": "This is telegram App API_HASH - Get from my.telegram.org",
+      "value": ""
+    }
+  }
+}
