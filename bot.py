@@ -142,7 +142,7 @@ def file_handler(client,message):
 def img_handler_f(client,message):
     k=message.download(str(message.chat.id))
     dst=str(message.chat.id)
-    os.rename(k,"/app/downloads/"+dst)
+    os.rename(k,k.split("downloads/")[0]+"downloads/"+dst)
     inline_keyboard = []
     inline_keyboard.append([
         pyrogram.InlineKeyboardButton(
