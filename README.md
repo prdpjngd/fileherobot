@@ -10,7 +10,8 @@ This is telegram Bot based on the pyrogram Library which is used to Convert to V
 STEP 1: Press 👉🏻 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)\
 STEP 2: get You App credentials from https://my.telegram.org/auth. \
 STEP 3: put variable value in the heroku env. variables.\
-STEP 4: Boom!.... your done!\
+STEP 4: "Turn On" Dyno form Resources ![.](https://telegra.ph/file/c2f9a2ac5f3aac4bfe00b.png) \
+STEP 5: Boom!.... your done!\
 
 
 ### 2. Legacy Way
@@ -27,7 +28,8 @@ pip install -r requirements.txt
 STEP 2: Get You App credentials from https://my.telegram.org/auth \
 STEP 3: Put your API ID & API HASH in Creds.py file.\
 STEP 4: Paste Your Bot Token In Creds.py\
-STEP 5: Boom your Done... 
+STEP 5: "Turn On" Dyno form Resources ![.](https://telegra.ph/file/c2f9a2ac5f3aac4bfe00b.png) \
+STEP 6: Boom your Done... 
 
 
 ### How to get your  API ID & API HASH from https://my.telegram.org/auth 👇
