@@ -14,7 +14,7 @@ STEP 4: Boom!.... your done!\
 
 
 ### 2. Legacy Way
-Simply clone the repository and run the main file:\
+Simply clone the repository and run the main file:
 
 STEP 1:
 ```sh
@@ -32,10 +32,10 @@ STEP 5: Boom your Done... \
 
 ### How to get your  API ID & API HASH from https://my.telegram.org/auth 👇
 ```
-STEP 1: Login with Your number in international format\
-STEP 2: Create App & copy API ID & API Hash of your app.\
-STEP 3: Go to Bot Father in telegram  and create a bot \
-STEP 4: Generate Bot token and copy to creds.py file.\
+STEP 1: Login with Your number in international format
+STEP 2: Create App & copy API ID & API Hash of your app.
+STEP 3: Go to Bot Father in telegram  and create a bot 
+STEP 4: Generate Bot token and copy to creds.py file.
 ```
 
 ### Variable Explanations ---> these are Mandatory Variables
