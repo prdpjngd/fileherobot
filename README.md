@@ -1,7 +1,7 @@
 ![​](https://telegra.ph/file/fbbf4413766a980126baa.jpg)
 #  FileHeroBot - Telegram Bot 🤖
 
-This a drive url shortener used to hide your original file ID and share with your friends. Powered by your google Drive API.
+This is telegram Bot based on the pyrogram Library which is used to Convert to Video & download file from url.
 
 ## Installing
 
